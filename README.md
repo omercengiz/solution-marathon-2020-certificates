@@ -3,5 +3,5 @@ Kişiye özel sertifikalar `issues` klasörünün içindedir.
 
 ## Onaylayanlar
 - 
-- 
+- Mehmet Oguz Derin
 - 
